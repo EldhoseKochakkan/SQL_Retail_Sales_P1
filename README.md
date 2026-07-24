@@ -215,22 +215,14 @@ FROM hourly_sale
 GROUP BY shift
 ```
 
-##  Findings
-1.Category Performance: Electronics generated the highest total sales of $311,445 from 678 orders, followed by Clothing with $309,995 from  698 orders and Beauty with $286,790 from 611 orders.
-
-2.Customer Demographics: Customers purchasing Beauty products had an average age of 40.42 years.
-
-3.Gender-Based Transactions: Clothing recorded the highest number of transactions (698), with 351 male and 347 female transactions, showing a nearly equal gender distribution.
-
-4.Monthly Sales Trends: The highest average sale in 2022 occurred in July ($541.34), while February 2023 had the highest average sale in 2023 ($535.53).
-
-5.Top Customers: Customer 3 was the highest-spending customer with $38,440 in total sales, followed by Customers 1 ($30,750) and 5 ($30,405).
-
-6.Customer Reach: Clothing had the highest number of unique customers (149), followed by Electronics (144) and Beauty (141).
-
-7.Sales by Time of Day: Evening was the busiest period with 1,062 orders, followed by Morning with 548 and Afternoon with 377, indicating that the majority of transactions occurred during evening hours.
-
-8.High-Quantity Clothing Sales: In November 2022, the analysis identified 17 Clothing transactions with a quantity of 4 or more, including several high-value transactions of $2,000.
+## Findings
+1. **Category Performance**: Electronics generated the highest total sales of $311,445 from 678 orders, followed by Clothing with $309,995 from 698 orders and Beauty with $286,790 from 611 orders.
+2. **Customer Demographics**: Customers purchasing Beauty products had an average age of 40.42 years.
+3. **Gender-Based Transactions**: Clothing recorded the highest number of transactions (698), with 351 male and 347 female transactions, showing a nearly equal gender distribution.
+4. **Monthly Sales Trends**: The highest average sale in 2022 occurred in July ($541.34), while February 2023 had the highest average sale in 2023 ($535.53).
+5. **Top Customers**: Customer 3 was the highest-spending customer with $38,440 in total sales, followed by Customers 1 ($30,750) and 5 ($30,405).
+6. **Customer Reach**: Clothing had the highest number of unique customers (149), followed by Electronics (144) and Beauty (141).
+7. **Sales by Time of Day**: Evening was the busiest period with 1,062 orders, followed by Morning with 548 and Afternoon with 377.
 
 
 
